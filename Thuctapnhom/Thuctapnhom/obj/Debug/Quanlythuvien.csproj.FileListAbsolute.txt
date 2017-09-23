@@ -1,0 +1,9 @@
+C:\Users\DAT\Documents\github\Thuctapnhom2017\QuanLyThuVien\Thuctapnhom\Thuctapnhom\bin\Debug\Thuctapnhom.exe.config
+C:\Users\DAT\Documents\github\Thuctapnhom2017\QuanLyThuVien\Thuctapnhom\Thuctapnhom\bin\Debug\Thuctapnhom.exe
+C:\Users\DAT\Documents\github\Thuctapnhom2017\QuanLyThuVien\Thuctapnhom\Thuctapnhom\bin\Debug\Thuctapnhom.pdb
+C:\Users\DAT\Documents\github\Thuctapnhom2017\QuanLyThuVien\Thuctapnhom\Thuctapnhom\obj\Debug\Quanlythuvien.csprojResolveAssemblyReference.cache
+C:\Users\DAT\Documents\github\Thuctapnhom2017\QuanLyThuVien\Thuctapnhom\Thuctapnhom\obj\Debug\Thuctapnhom.Properties.Resources.resources
+C:\Users\DAT\Documents\github\Thuctapnhom2017\QuanLyThuVien\Thuctapnhom\Thuctapnhom\obj\Debug\Thuctapnhom.Send.frmain.resources
+C:\Users\DAT\Documents\github\Thuctapnhom2017\QuanLyThuVien\Thuctapnhom\Thuctapnhom\obj\Debug\Quanlythuvien.csproj.GenerateResource.Cache
+C:\Users\DAT\Documents\github\Thuctapnhom2017\QuanLyThuVien\Thuctapnhom\Thuctapnhom\obj\Debug\Thuctapnhom.exe
+C:\Users\DAT\Documents\github\Thuctapnhom2017\QuanLyThuVien\Thuctapnhom\Thuctapnhom\obj\Debug\Thuctapnhom.pdb
